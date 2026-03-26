@@ -59,6 +59,7 @@ Aplikasi ini dirancang agar user non-teknis dapat langsung menggunakan model tan
 
 Ikuti langkah berikut untuk menjalankan aplikasi di komputer lokal:
 
+```bash
 # ================================
 # 🚀 STEP 1 — CLONE REPOSITORY
 # ================================

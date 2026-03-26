@@ -1,0 +1,4 @@
+C:\Users\Rizky Maulana\anaconda3
+C:\Users\Rizky Maulana\anaconda3\envs\env
+C:\Users\Rizky Maulana\anaconda3\envs\streamlit_day_38
+C:\Users\Rizky Maulana\anaconda3\envs\streamlit_38
